@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 import { Grid, Cell } from 'react-mdl'
 import deep from './deep.jpg'
 
